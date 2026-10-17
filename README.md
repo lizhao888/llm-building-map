@@ -4,6 +4,8 @@ An agent skill that gives you a **verifiable mental model of how a large languag
 
 Distilled from Yann Dubois' Stanford CS229 guest lecture *Building Large Language Models* (Summer 2024). Every claim in the skill is mapped to a timestamp in `references/lecture-notes.md`, so you can check it rather than trust it.
 
+📖 Prefer to read it as an article? [How LLMs are actually built — on dev.to](https://dev.to/lizhao888/how-llms-are-actually-built-and-why-most-how-it-works-threads-stop-too-early-pm)
+
 ## Why this exists
 
 Most "how LLMs work" explainers stop at "transformers + attention". The parts that decide whether a model is good — the data pipeline, the post-training recipe, the evaluation setup, the systems work — are usually glossed over.
