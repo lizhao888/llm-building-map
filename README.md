@@ -1,6 +1,16 @@
 # llm-building-map
 
-An agent skill that gives you a **verifiable mental model of how a large language model is actually built** — and, more usefully, a way to tell whether a claim about one is credible.
+**A skill file that tells an agent how an LLM is actually built — and gives you three questions that deflate most benchmark claims.**
+
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Skill](https://img.shields.io/badge/format-SKILL.md-58a6ff)](SKILL.md) [![Lecture](https://img.shields.io/badge/source-CS229%202024-lightgrey)](references/lecture-notes.md)
+
+![Five components, the pretraining pipeline, post-training and evaluation](assets/llm-building-map.png)
+
+```bash
+git clone https://github.com/lizhao888/llm-building-map.git
+cp -r llm-building-map ~/.claude/skills/      # Claude Code
+cp -r llm-building-map ~/.hermes/skills/research/   # Hermes Agent
+```
 
 Distilled from Yann Dubois' Stanford CS229 guest lecture *Building Large Language Models* (Summer 2024). Every claim in the skill is mapped to a timestamp in `references/lecture-notes.md`, so you can check it rather than trust it.
 
