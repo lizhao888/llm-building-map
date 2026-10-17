@@ -14,7 +14,7 @@ cp -r llm-building-map ~/.hermes/skills/research/   # Hermes Agent
 
 Distilled from Yann Dubois' Stanford CS229 guest lecture *Building Large Language Models* (Summer 2024). Every claim in the skill is mapped to a timestamp in `references/lecture-notes.md`, so you can check it rather than trust it.
 
-📖 Prefer to read it as an article? [How LLMs are actually built — on dev.to](https://dev.to/lizhao888/how-llms-are-actually-built-and-why-most-how-it-works-threads-stop-too-early-pm)
+📖 Prefer to read it as an article? [How LLMs are actually built — on dev.to](https://dev.to/lizhao888/how-llms-are-actually-built-and-why-most-how-it-works-threads-stop-too-early-pm) · [中文版（掘金）](https://juejin.cn/post/7697159608205885450)
 
 ## Why this exists
 
